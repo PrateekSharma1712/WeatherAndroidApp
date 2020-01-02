@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="unable_to_fetch_location">Unable to fetch location</string>
+    <string name="max">max</string>
+    <string name="min">min</string>
+    <string name="wind_speed">wind speed</string>
+    <string name="humidity">humidity</string>
+    <string name="fetching_weather">fetching weather…</string>
+    <string name="connect_to_internet">Please connect to Internet</string>
+    <string name="no_location_permission_granted">No location permission granted</string>
+</resources>
